@@ -1,1 +1,5 @@
-{ "server": "https://grox.herokuapp.com/api", "discord": "", "youtube": ""}
+<data>
+  <server>https://grox.herokuapp.com/api</server>
+  <discord></discord>
+  <youtube></youtube>
+</data>
