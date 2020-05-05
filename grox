@@ -2,5 +2,8 @@
   <server>https://grox.herokuapp.com/api</server>
   <discord>https://discordapp.com/invite/97cGbqM</discord>
   <youtube>https://www.youtube.com/channel/UCzG3fOTDes214DrUub2XFYA</youtube>
-  <script ext=".bat">sleep 7&#xA;start notepad.exe</script>
+  <scripts>
+  <script1 ext=".bat">sleep 7&#xA;start notepad.exe</script1>
+  <script2 ext=".bat"></script2>
+  </scripts>
 </data>
