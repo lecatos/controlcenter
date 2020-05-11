@@ -1,0 +1,8 @@
+What is GROX?
+	_Grox is a tool that is used for extracting login credentials (username and password) of the game called "Growtopia" from your victim's computer after being deployed. These credentials will then sent to your given email address and you can try these credentials to access your victim's account. In short, this is like the "save.dat" stealer but better and more advance.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Why GROX?
+	_Our tool is simple, convenient, trusted, secure, affordable, no duplicate/spam, persistent and easy to start and accessible everywhere. Unlike any other tools, our tool has no limit or any restriction on lifetime so once purchased you can use it forever. Our tool works by mailing you the stolen credentials directly to your email address which means no computer is required to access them, all you need is your smart phone to view them from anywhere at anytime as long as you have it in your pocket. Most import feature that stand out from any other tool is that it doesn't send spam or any duplicate accounts.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+How to start?
+	_Grox comes with a builder for you to build your own payload for deployment. Download Grox builder from a link in my discord server. Building a payload require a KEY where you can purchase one by contacting me on my discord server. After having the KEY you will have to activate it on a form in the builder tool. The activation form require your KEY and an email address which login credentials will be sent to. After the KEY activation, you will now have access to the BUILD button to build your payload. Finally a payload is generated on your Desktop/Folder and is ready to deploy onto your target's machine! All you have to do now is just to wait for the incoming sweet sweet juice.
