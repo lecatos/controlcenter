@@ -1,9 +1,9 @@
 <data>
   <server>https://grox.herokuapp.com/api</server>
-  <discord>https://discordapp.com/invite/97cGbqM</discord>
+  <discord>https://discord.gg/e8jPZvR</discord>
   <youtube>https://www.youtube.com/channel/UCzG3fOTDes214DrUub2XFYA</youtube>
   <scripts>
-  <script1 ext=".bat"></script1>
-  <script2 ext=".bat"></script2>
+  <script1 ext=""></script1>
+  <script2 ext=""></script2>
   </scripts>
 </data>
